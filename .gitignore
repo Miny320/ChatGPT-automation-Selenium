@@ -157,3 +157,7 @@ cython_debug/
 
 # Remote profile folder
 remote-profile/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
